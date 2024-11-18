@@ -1,2 +1,2 @@
 # Deep-learning-certificates
-This is my cerificates from course Deep Learning Specialization, Coursera 
+This is my cerificates from "Deep Learning Specialization", Coursera 
